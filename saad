@@ -57,7 +57,7 @@ getgenv().StandConfig = {
   ['CustomSong'] = 6703926669, --Enter A Song ID And Say 'Song!'
   ['SummonMusic'] = true, --[true | false]
   ['SummonMusicID'] = 'Default' -- Enter a Sound ID Put [Default] If You Would Like The Default Sound
-}loadstring(game:HttpGet("https://xk5ng.github.io/V4.6"))()`;
+}loadstring(game:HttpGet('https://raw.githubusercontent.com/44oo/saad-stand/main/saad'))()`;
 
   generatedCodeTextarea.value = generatedCode;
 });
